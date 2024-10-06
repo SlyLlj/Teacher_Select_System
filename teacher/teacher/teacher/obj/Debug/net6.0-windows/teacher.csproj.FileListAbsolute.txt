@@ -1,0 +1,90 @@
+E:\Desktop\teacher\teacher\bin\Debug\net6.0-windows\teacher.exe
+E:\Desktop\teacher\teacher\bin\Debug\net6.0-windows\teacher.deps.json
+E:\Desktop\teacher\teacher\bin\Debug\net6.0-windows\teacher.runtimeconfig.json
+E:\Desktop\teacher\teacher\bin\Debug\net6.0-windows\teacher.dll
+E:\Desktop\teacher\teacher\bin\Debug\net6.0-windows\teacher.pdb
+E:\Desktop\teacher\teacher\obj\Debug\net6.0-windows\teacher.Change_Password.resources
+E:\Desktop\teacher\teacher\obj\Debug\net6.0-windows\teacher.Personal_Information.resources
+E:\Desktop\teacher\teacher\obj\Debug\net6.0-windows\teacher.Properties.Resources.resources
+E:\Desktop\teacher\teacher\obj\Debug\net6.0-windows\teacher.TeacherForm.resources
+E:\Desktop\teacher\teacher\obj\Debug\net6.0-windows\teacher.csproj.GenerateResource.cache
+E:\Desktop\teacher\teacher\obj\Debug\net6.0-windows\teacher.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\teacher\teacher\obj\Debug\net6.0-windows\teacher.AssemblyInfoInputs.cache
+E:\Desktop\teacher\teacher\obj\Debug\net6.0-windows\teacher.AssemblyInfo.cs
+E:\Desktop\teacher\teacher\obj\Debug\net6.0-windows\teacher.csproj.CoreCompileInputs.cache
+E:\Desktop\teacher\teacher\obj\Debug\net6.0-windows\teacher.dll
+E:\Desktop\teacher\teacher\obj\Debug\net6.0-windows\refint\teacher.dll
+E:\Desktop\teacher\teacher\obj\Debug\net6.0-windows\teacher.pdb
+E:\Desktop\teacher\teacher\obj\Debug\net6.0-windows\teacher.genruntimeconfig.cache
+E:\Desktop\teacher\teacher\obj\Debug\net6.0-windows\ref\teacher.dll
+E:\Desktop\teacher\teacher\obj\Debug\net6.0-windows\teacher.Tea_Volunteer.resources
+E:\Desktop\teacher\teacher\obj\Debug\net6.0-windows\teacher.result.resources
+E:\Desktop\teacher\teacher\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Desktop\teacher\teacher\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Desktop\teacher\teacher\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Desktop\teacher\teacher\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Desktop\teacher\teacher\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Desktop\teacher\teacher\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Desktop\teacher\teacher\obj\Debug\net6.0-windows\teacher.csproj.AssemblyReference.cache
+E:\Desktop\teacher\teacher\obj\Debug\net6.0-windows\teacher.csproj.CopyComplete
+E:\Desktop\teacher\teacher\obj\Debug\net6.0-windows\teacher.loginT.resources
+E:\Desktop\课设\teacher\teacher\bin\Debug\net6.0-windows\teacher.exe
+E:\Desktop\课设\teacher\teacher\bin\Debug\net6.0-windows\teacher.deps.json
+E:\Desktop\课设\teacher\teacher\bin\Debug\net6.0-windows\teacher.runtimeconfig.json
+E:\Desktop\课设\teacher\teacher\bin\Debug\net6.0-windows\teacher.dll
+E:\Desktop\课设\teacher\teacher\bin\Debug\net6.0-windows\teacher.pdb
+E:\Desktop\课设\teacher\teacher\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Desktop\课设\teacher\teacher\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Desktop\课设\teacher\teacher\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Desktop\课设\teacher\teacher\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Desktop\课设\teacher\teacher\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Desktop\课设\teacher\teacher\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Desktop\课设\teacher\teacher\obj\Debug\net6.0-windows\teacher.csproj.AssemblyReference.cache
+E:\Desktop\课设\teacher\teacher\obj\Debug\net6.0-windows\teacher.Change_Password.resources
+E:\Desktop\课设\teacher\teacher\obj\Debug\net6.0-windows\teacher.loginT.resources
+E:\Desktop\课设\teacher\teacher\obj\Debug\net6.0-windows\teacher.Personal_Information.resources
+E:\Desktop\课设\teacher\teacher\obj\Debug\net6.0-windows\teacher.Properties.Resources.resources
+E:\Desktop\课设\teacher\teacher\obj\Debug\net6.0-windows\teacher.result.resources
+E:\Desktop\课设\teacher\teacher\obj\Debug\net6.0-windows\teacher.TeacherForm.resources
+E:\Desktop\课设\teacher\teacher\obj\Debug\net6.0-windows\teacher.Tea_Volunteer.resources
+E:\Desktop\课设\teacher\teacher\obj\Debug\net6.0-windows\teacher.csproj.GenerateResource.cache
+E:\Desktop\课设\teacher\teacher\obj\Debug\net6.0-windows\teacher.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\课设\teacher\teacher\obj\Debug\net6.0-windows\teacher.AssemblyInfoInputs.cache
+E:\Desktop\课设\teacher\teacher\obj\Debug\net6.0-windows\teacher.AssemblyInfo.cs
+E:\Desktop\课设\teacher\teacher\obj\Debug\net6.0-windows\teacher.csproj.CoreCompileInputs.cache
+E:\Desktop\课设\teacher\teacher\obj\Debug\net6.0-windows\teacher.csproj.CopyComplete
+E:\Desktop\课设\teacher\teacher\obj\Debug\net6.0-windows\teacher.dll
+E:\Desktop\课设\teacher\teacher\obj\Debug\net6.0-windows\refint\teacher.dll
+E:\Desktop\课设\teacher\teacher\obj\Debug\net6.0-windows\teacher.pdb
+E:\Desktop\课设\teacher\teacher\obj\Debug\net6.0-windows\teacher.genruntimeconfig.cache
+E:\Desktop\课设\teacher\teacher\obj\Debug\net6.0-windows\ref\teacher.dll
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\bin\Debug\net6.0-windows\teacher.exe
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\bin\Debug\net6.0-windows\teacher.deps.json
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\bin\Debug\net6.0-windows\teacher.runtimeconfig.json
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\bin\Debug\net6.0-windows\teacher.dll
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\bin\Debug\net6.0-windows\teacher.pdb
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\obj\Debug\net6.0-windows\teacher.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\obj\Debug\net6.0-windows\teacher.Change_Password.resources
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\obj\Debug\net6.0-windows\teacher.loginT.resources
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\obj\Debug\net6.0-windows\teacher.Personal_Information.resources
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\obj\Debug\net6.0-windows\teacher.Properties.Resources.resources
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\obj\Debug\net6.0-windows\teacher.result.resources
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\obj\Debug\net6.0-windows\teacher.TeacherForm.resources
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\obj\Debug\net6.0-windows\teacher.Tea_Volunteer.resources
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\obj\Debug\net6.0-windows\teacher.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\obj\Debug\net6.0-windows\teacher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\obj\Debug\net6.0-windows\teacher.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\obj\Debug\net6.0-windows\teacher.AssemblyInfo.cs
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\obj\Debug\net6.0-windows\teacher.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\obj\Debug\net6.0-windows\teacher.csproj.CopyComplete
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\obj\Debug\net6.0-windows\teacher.dll
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\obj\Debug\net6.0-windows\refint\teacher.dll
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\obj\Debug\net6.0-windows\teacher.pdb
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\obj\Debug\net6.0-windows\teacher.genruntimeconfig.cache
+C:\Users\ASUS\Documents\WeChat Files\wxid_1smxajzyyici22\FileStorage\File\2023-12\teacher\teacher\teacher\obj\Debug\net6.0-windows\ref\teacher.dll

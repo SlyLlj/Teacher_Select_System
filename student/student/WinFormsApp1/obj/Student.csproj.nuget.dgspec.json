@@ -1,0 +1,139 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CodeBase\\VSProjects\\student\\student\\WinFormsApp1\\Student.csproj": {}
+  },
+  "projects": {
+    "D:\\CodeBase\\VSProjects\\student\\student\\BLL\\BLL.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\CodeBase\\VSProjects\\student\\student\\BLL\\BLL.csproj",
+        "projectName": "BLL",
+        "projectPath": "D:\\CodeBase\\VSProjects\\student\\student\\BLL\\BLL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\CodeBase\\VSProjects\\student\\student\\DAL\\DAL.csproj": {
+                "projectPath": "D:\\CodeBase\\VSProjects\\student\\student\\DAL\\DAL.csproj"
+              },
+              "D:\\CodeBase\\VSProjects\\student\\student\\Model\\Model.csproj": {
+                "projectPath": "D:\\CodeBase\\VSProjects\\student\\student\\Model\\Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\CodeBase\\VSProjects\\student\\student\\DAL\\DAL.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\CodeBase\\VSProjects\\student\\student\\DAL\\DAL.csproj",
+        "projectName": "DAL",
+        "projectPath": "D:\\CodeBase\\VSProjects\\student\\student\\DAL\\DAL.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\CodeBase\\VSProjects\\student\\student\\Model\\Model.csproj": {
+                "projectPath": "D:\\CodeBase\\VSProjects\\student\\student\\Model\\Model.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\CodeBase\\VSProjects\\student\\student\\Model\\Model.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\CodeBase\\VSProjects\\student\\student\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "D:\\CodeBase\\VSProjects\\student\\student\\Model\\Model.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\CodeBase\\VSProjects\\student\\student\\WinFormsApp1\\Student.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CodeBase\\VSProjects\\student\\student\\WinFormsApp1\\Student.csproj",
+        "projectName": "Student",
+        "projectPath": "D:\\CodeBase\\VSProjects\\student\\student\\WinFormsApp1\\Student.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\CodeBase\\VSProjects\\student\\student\\WinFormsApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\CodeBase\\VSProjects\\student\\student\\BLL\\BLL.csproj": {
+                "projectPath": "D:\\CodeBase\\VSProjects\\student\\student\\BLL\\BLL.csproj"
+              },
+              "D:\\CodeBase\\VSProjects\\student\\student\\Model\\Model.csproj": {
+                "projectPath": "D:\\CodeBase\\VSProjects\\student\\student\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

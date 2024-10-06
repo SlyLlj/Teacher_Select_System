@@ -1,0 +1,99 @@
+E:\Desktop\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\Adminstrator.exe
+E:\Desktop\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\Adminstrator.deps.json
+E:\Desktop\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\Adminstrator.runtimeconfig.json
+E:\Desktop\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\Adminstrator.dll
+E:\Desktop\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\Adminstrator.pdb
+E:\Desktop\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.administrator.resources
+E:\Desktop\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.Properties.Resources.resources
+E:\Desktop\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.csproj.GenerateResource.cache
+E:\Desktop\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.AssemblyInfoInputs.cache
+E:\Desktop\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.AssemblyInfo.cs
+E:\Desktop\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.csproj.CoreCompileInputs.cache
+E:\Desktop\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.dll
+E:\Desktop\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\refint\Adminstrator.dll
+E:\Desktop\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.pdb
+E:\Desktop\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.genruntimeconfig.cache
+E:\Desktop\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\ref\Adminstrator.dll
+E:\Desktop\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.Teacher_Message.resources
+E:\Desktop\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.Student_Message.resources
+E:\Desktop\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.Assign.resources
+E:\Desktop\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.System_Configuration.resources
+E:\Desktop\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.Ajust.resources
+E:\Desktop\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\student.login.resources
+E:\Desktop\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.Preview.resources
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\Adminstrator.exe
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\Adminstrator.deps.json
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\Adminstrator.runtimeconfig.json
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\Adminstrator.dll
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\Adminstrator.pdb
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.administrator.resources
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.Ajust.resources
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.Assign.resources
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.Preview.resources
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.Properties.Resources.resources
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.Student_Message.resources
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.System_Configuration.resources
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.Teacher_Message.resources
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.csproj.GenerateResource.cache
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.AssemblyInfoInputs.cache
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.AssemblyInfo.cs
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.csproj.CoreCompileInputs.cache
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.dll
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\refint\Adminstrator.dll
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.pdb
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.genruntimeconfig.cache
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\ref\Adminstrator.dll
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.csproj.AssemblyReference.cache
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.csproj.CopyComplete
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\student.LoginA.resources
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\BLL.dll
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\DAL.dll
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\Model.dll
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\Tools.dll
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\SqlSugar.dll
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\BLL.pdb
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\BLL.dll.config
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\DAL.pdb
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\DAL.dll.config
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\Model.pdb
+D:\CodeBase\VSProjects\Adminstrator\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\Tools.pdb
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\Adminstrator.exe
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\Adminstrator.deps.json
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\Adminstrator.runtimeconfig.json
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\Adminstrator.dll
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\Adminstrator.pdb
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.csproj.AssemblyReference.cache
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.administrator.resources
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.Ajust.resources
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.Assign.resources
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\student.LoginA.resources
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.Preview.resources
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.Properties.Resources.resources
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.Student_Message.resources
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.System_Configuration.resources
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.Teacher_Message.resources
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.csproj.GenerateResource.cache
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.AssemblyInfoInputs.cache
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.AssemblyInfo.cs
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.csproj.CoreCompileInputs.cache
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.csproj.CopyComplete
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.dll
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\refint\Adminstrator.dll
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.pdb
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\Adminstrator.genruntimeconfig.cache
+D:\CodeBase\VSProjects\Adminstrator - 副本\Adminstrator\Adminstrator\obj\Debug\net6.0-windows\ref\Adminstrator.dll

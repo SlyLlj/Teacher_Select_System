@@ -1,0 +1,11 @@
+D:\CodeBase\VSProjects\student\student\BLL\bin\Debug\BLL.dll
+D:\CodeBase\VSProjects\student\student\BLL\bin\Debug\BLL.pdb
+D:\CodeBase\VSProjects\student\student\BLL\bin\Debug\DAL.dll
+D:\CodeBase\VSProjects\student\student\BLL\bin\Debug\Model.dll
+D:\CodeBase\VSProjects\student\student\BLL\bin\Debug\DAL.pdb
+D:\CodeBase\VSProjects\student\student\BLL\bin\Debug\Model.pdb
+D:\CodeBase\VSProjects\student\student\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\CodeBase\VSProjects\student\student\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\CodeBase\VSProjects\student\student\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\CodeBase\VSProjects\student\student\BLL\obj\Debug\BLL.dll
+D:\CodeBase\VSProjects\student\student\BLL\obj\Debug\BLL.pdb
